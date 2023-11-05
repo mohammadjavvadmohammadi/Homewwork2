@@ -15,6 +15,20 @@ odkolon_list = ["tom ford" , "faboulos" , "tosckan leather" , "belu shannel" , "
                 "dior home" , "megamare" , "bakaret rozh" ]
 for atr in odkolon_list :
   print(atr)
+
+abc_list = ["a" , "b" , "c" , "d" , "e" , "f" , "g" , "h" , "i" , "j" , "k" , 
+            "l" , "m" , "n" , "o" , "p" , "q" , "r" , "s"  , "t" , "u" , "v" , 
+            "w" , "x" , "Y" , "z" ]
+for alefba in abc :
+  print(alefba)
+
+keshvar_list = ["iran" , "argantin" , "brazil" , "chin" , "farance" , "japan" , 
+                "chili" , "qatar" , "neterland" ,  "thiland" , "kolombia" , 
+                "spain" , "welz" , "poland" , "english" , "island" ,
+                "ekvador" , "ukrain" , "russie" ]
+for world in keshvar_list :
+  print(world)
+                
                 
 
 
