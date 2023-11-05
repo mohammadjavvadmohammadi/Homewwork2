@@ -37,6 +37,15 @@ track_list = ["1-ta tehran" , "2-flex" , "3-gorg o mish" , "4-sturdy" ,
               "47-3am" , "48-skiki" , "49-jibitz" , "50-runaway" ]
 for playlist in track_list :
   print(playlist)
+
+movie_list = ["vertigo" , "citizen kane" , "tokyo story" , "A space odyssey" , "rules of the game" , 
+              "sunrise" , "the searchers" , "acopalypse now" , "breathless" , "mirror" , 
+              "L atalante" , "the godfather" , "persona" , "taxi driver" , "battleship potemkin" , 
+              "seven samurai" , "bicycle thieves" , "rashomon" , "ordet" , 
+              "the 400 blows" , "the adventure" , "contempt" , "late spring" , 
+              "raging bull" ]
+for moviee in movie_list :
+  print(moviee)
                 
                 
 
